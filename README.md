@@ -1,83 +1,80 @@
-<img src="./cover.jpg" width = "100%" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=300&color=0099FF&background=DA02FF00&center=true&width=635&height=70&lines=Welcome+to+my+GitHub+universe!" alt="Typing SVG" /></a>
-<p>
-👋 Hi, I’m Syed Wajid Hussain
-💻 A passionate Full Stack Developer specializing in .NET (ASP.NET Core, Web API, MVC) and Angular
-🚀 I enjoy building scalable web applications, solving real-world problems, and writing clean, maintainable code.
+<img src="./cover.jpg" width="100%" />
 
-✨ What drives me:
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?size=35&pause=300&color=0099FF&background=DA02FF00&center=true&width=635&height=70&lines=Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
+</a>
 
-Turning ideas into functional digital solutions
+---
 
-Exploring new technologies and constantly learning & improving
+## 👋 Hi, I’m Syed Wajid Hussain  
 
-Strong believer in Clean Architecture, CQRS, and best coding practices
+💻 A passionate **Full Stack Developer** specializing in **.NET (ASP.NET Core, Web API, MVC)** and **Angular**.  
+🚀 I enjoy building scalable web applications, solving real-world problems, and writing clean, maintainable code.  
 
-Problem-solving mindset → Challenges are opportunities to grow
+---
 
-🔹 Tech Stack:
-.NET Core • C# • Angular • SQL Server • Entity Framework Core • HTML • CSS • JavaScript • Bootstrap • jQuery • AJAX
+### ✨ What Drives Me
+- Turning ideas into functional digital solutions  
+- Exploring new technologies and constantly learning & improving  
+- Strong believer in **Clean Architecture, CQRS, and best coding practices**  
+- Problem-solving mindset → Challenges are opportunities to grow  
 
-🌱 Currently:
+---
 
-Expanding knowledge in advanced .NET & Angular concepts
+### 🔹 Tech Stack
+.NET Core • C# • Angular • SQL Server • Entity Framework Core • HTML • CSS • JavaScript • Bootstrap • jQuery • AJAX  
 
-Building projects to strengthen my skills and portfolio
-🌱 Currently:
+---
 
-Expanding knowledge in advanced .NET & Angular concepts
+### 🌱 Currently
+- Expanding knowledge in advanced **.NET & Angular** concepts  
+- Building projects to strengthen my skills and portfolio  
+- Learning **React.js**  
+- 🤝 Actively seeking **new opportunities**  
 
-Building projects to strengthen my skills and portfolio
+---
 
-📫 Reach me at:
+### 📫 Reach Me At
+- ✉️ [hussainwajid615@gmail.com](mailto:hussainwajid615@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/syed-wajid-hussain/)  
+- 🌍 Karachi, Sindh, Pakistan  
 
-✉️ Email: hussainwajid615@gmail.com
+---
 
-<a href="https://www.linkedin.com/in/syed-wajid-hussain/">🔗 LinkedIn:</a>
-</p>
-* 🌍  I'm based in Karāchi, Sindh, Pakistan
-* ✉️  You can contact me at [hussainwajid615@gmail.com](mailto:hussainwajid615@gmail.com)
-* 🧠  I'm learning React.js
-* 🤝  Currently seeking new opportunities 
+<img src="https://github.com/WajidHussain12/assets/blob/main/Coding.gif" align="right" width="300px" style="border-radius:20px;" />
 
-<p>If you're as passionate about innovative software development as I am, then hit that <b>'Follow'</b> button, and let's embark on an exciting adventure through lines of code.</p>
-<a href="https://github.com/WajidHussain12" target="_blank" rel="noreferrer">
-    
-
-<img src="https://github.com/WajidHussain12/assets/blob/main/Coding.gif" align = "right"  style="border-radius:50px;" width="450px" >
-
-### Skills
-
+### 🛠 Skills
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/></a>
 </p>
 
+---
 
-### Socials
-
-<p align="left"> <a href="https://github.com/WajidHussain12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-    <a href="https://www.linkedin.com/in/syed-wajid-hussain/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+### 🌐 Socials
+<p align="left">
+  <a href="https://github.com/WajidHussain12" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/syed-wajid-hussain/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
+---
 
+### 🏆 Badges
+![WajidHussain12's Streak](https://github-readme-streak-stats.herokuapp.com?user=WajidHussain12&theme=green-nur)
 
-### Badges
-![WajidHussain12's Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed%20Wajid&theme=green-nur)]
+---
 
+<img src="https://github.com/WajidHussain12/assets/blob/main/Coding2.gif" width="250px" align="right" style="border-radius:20px;" />
 
-### Stats 
-
+### 📊 Stats
 ![WajidHussain12's Stats](https://github-readme-stats.vercel.app/api?username=WajidHussain12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-<img 
-src="https://github.com/WajidHussain12/assets/blob/main/Coding2.gif" width="350px" align="right" style="border-radius:50px;" /> 
 
-### Top Languages
+---
 
+### 📌 Top Languages
 ![WajidHussain12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
