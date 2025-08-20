@@ -79,5 +79,5 @@ src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c1
 
 ### Top Languages
 
-![batoolfatima2135's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batoolfatima2135&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![WajidHussain12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
