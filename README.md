@@ -3,13 +3,12 @@
 <p>I'm a passionate software developer who loves transforming ideas into digital solutions. I love to <b>think out of the box</b> and love to take challenges. My strong problem-solving skills enable me to analyze complex problems and develop solutions. I believe <b>self-growth</b> and <b>giving up is not an option</b> for me.</p>
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [Batoolfatima2135@gmail.com](mailto:Batoolfatima2135@gmail.com)
-* 🚀  I'm currently working on [google-batool](https://github.com/batoolfatima2135/google-batool)
-* 🧠  I'm learning Next.js
+* ✉️  You can contact me at [hussainwajid615@gmail.com](mailto:hussainwajid615@gmail.com)
+* 🧠  I'm learning React.js
 * 🤝  Currently seeking new opportunities 
 
 <p>If you're as passionate about innovative software development as I am, then hit that <b>'Follow'</b> button, and let's embark on an exciting adventure through lines of code.</p>
-<a href="https://www.github.com/batoolfatima2135" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/WajidHussain12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/batoolfatima2135?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right"  style="border-radius:50px;" width="450px" >
