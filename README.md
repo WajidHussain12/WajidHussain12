@@ -69,7 +69,6 @@ Building projects to strengthen my skills and portfolio
 
 ### Badges
 ![WajidHussain12's Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed%20Wajid&theme=green-nur)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syed%20Wajid&theme=green-nur" alt="GitHub Streak" /></a>
 
 
 ### Stats 
