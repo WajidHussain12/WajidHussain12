@@ -43,16 +43,55 @@
 
 <img src="https://github.com/WajidHussain12/assets/blob/main/Coding.gif" align="right" width="300px" style="border-radius:20px;" />
 
-### 🛠 Skills
+## 🛠 Skills  
+
+### 🌐 Frontend  
+<p align="left">
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery"/></a>
+  <a href="#" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-ajax-web-development-flaticons-lineal-color-flat-icons.png" width="36" height="36" alt="AJAX"/></a>
+</p>  
+
+---
+
+### ⚙️ Backend  
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET Core"/></a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank"><img src="https://avatars.githubusercontent.com/u/6476660?s=200&v=4" width="36" height="36" alt="ASP.NET Core"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="36" height="36" alt="Swagger"/></a>
+  <a href="https://automapper.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2350018?s=200&v=4" width="36" height="36" alt="AutoMapper"/></a>
+  <a href="https://serilog.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/11534326?s=200&v=4" width="36" height="36" alt="Serilog"/></a>
+  <a href="https://fluentvalidation.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20023954?s=200&v=4" width="36" height="36" alt="FluentValidation"/></a>
+  <a href="https://github.com/jstedfast/MailKit" target="_blank"><img src="https://avatars.githubusercontent.com/u/1576077?s=200&v=4" width="36" height="36" alt="MailKit"/></a>
+</p>  
+
+🧩 Also familiar with:  
+- Web API • MVC • MediatR • Clean Architecture • CQRS • Identity • JWT Authentication • Repository Pattern • Dependency Injection  
+
+---
+
+### 🗄 Database  
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ef/overview" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="Entity Framework Core"/></a>
+</p>  
+
+- SQL Server • LINQ • Entity Framework Core  
+
+---
+
+### 🛠 Tools & Methods  
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/></a>
-</p>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman"/></a>
+  <a href="https://developer.chrome.com/docs/devtools/" target="_blank"><img src="https://img.icons8.com/color/48/chrome.png" width="36" height="36" alt="Chrome Dev Tools"/></a>
+</p>  
+
 
 ---
 
