@@ -53,8 +53,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank"><img src="https://static-00.iconduck.com/assets.00/ajax-icon-2048x2048-bzs7vksd.png" width="36" height="36" alt="AJAX"/></a>
-
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>
+  <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
 </p>  
 
 ---
@@ -68,6 +69,7 @@
   <a href="https://serilog.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/11534326?s=200&v=4" width="36" height="36" alt="Serilog"/></a>
   <a href="https://fluentvalidation.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20023954?s=200&v=4" width="36" height="36" alt="FluentValidation"/></a>
   <a href="https://github.com/jstedfast/MailKit" target="_blank"><img src="https://avatars.githubusercontent.com/u/1576077?s=200&v=4" width="36" height="36" alt="MailKit"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a>
 </p>  
 
 🧩 Also familiar with:  
@@ -79,6 +81,7 @@
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ef/overview" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="Entity Framework Core"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>
 </p>  
 
 - SQL Server • LINQ • Entity Framework Core  
