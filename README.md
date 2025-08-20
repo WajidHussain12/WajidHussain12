@@ -44,7 +44,7 @@ Building projects to strengthen my skills and portfolio
 <a href="https://github.com/WajidHussain12" target="_blank" rel="noreferrer">
     
 
-<img src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/fda545fb-d86b-49e1-879b-333c56ea8eb3" align = "right"  style="border-radius:50px;" width="450px" >
+<img src="https://github.com/WajidHussain12/assets/blob/main/Coding.gif" align = "right"  style="border-radius:50px;" width="450px" >
 
 ### Skills
 
