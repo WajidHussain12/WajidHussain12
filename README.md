@@ -53,7 +53,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery"/></a>
-  <a href="#" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-ajax-web-development-flaticons-lineal-color-flat-icons.png" width="36" height="36" alt="AJAX"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank<img src="https://static-00.iconduck.com/assets.00/ajax-icon-2048x2048-bzs7vksd.png" width="36" height="36" alt="AJAX"/></a>
 </p>  
 
 ---
