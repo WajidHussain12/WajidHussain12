@@ -68,12 +68,12 @@ Building projects to strengthen my skills and portfolio
 
 
 ### Badges
-![WajidHussain12's Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed%20Wajid&theme=green-nur)](https://git.io/streak-stats)
+![WajidHussain12's Streak](https://github-readme-streak-stats.herokuapp.com?user=Syed%20Wajid&theme=green-nur)]
 
 
 ### Stats 
 
-![WajidHussain12's Stats](https://github-readme-stats.vercel.app/api?username=WajidHussain12's&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![WajidHussain12's Stats](https://github-readme-stats.vercel.app/api?username=WajidHussain12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <img 
 src="https://github.com/batoolfatima2135/batoolfatima2135/assets/61277612/6184c15a-5360-4452-be6c-24789ad65013" width="350px" align="right" style="border-radius:50px;" /> 
 
