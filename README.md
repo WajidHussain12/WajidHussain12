@@ -64,7 +64,7 @@
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET Core"/></a>
   <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank"><img src="https://avatars.githubusercontent.com/u/6476660?s=200&v=4" width="36" height="36" alt="ASP.NET Core"/></a>
-  <a href="https://swagger.io/" target="_blank"><img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="36" height="36" alt="Swagger"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" width="36" height="36" alt="Swagger"/></a>
   <a href="https://automapper.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/2350018?s=200&v=4" width="36" height="36" alt="AutoMapper"/></a>
   <a href="https://serilog.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/11534326?s=200&v=4" width="36" height="36" alt="Serilog"/></a>
   <a href="https://fluentvalidation.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20023954?s=200&v=4" width="36" height="36" alt="FluentValidation"/></a>
