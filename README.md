@@ -90,7 +90,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>
 </p>  
 
-- SQL Server • LINQ • Entity Framework Core  
+- SQL Server • LINQ • Entity Framework Core • MongoDB  
 
 ---
 
