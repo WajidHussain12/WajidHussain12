@@ -61,16 +61,16 @@
 ---
 
 ### ⚙️ Backend  
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET Core"/></a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank"><img src="https://avatars.githubusercontent.com/u/6476660?s=200&v=4" width="36" height="36" alt="ASP.NET Core"/></a>
-  <a href="https://swagger.io/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" width="36" height="36" alt="Swagger"/></a>
-  <a href="https://automapper.org/" target="_blank"><img src="https://img.shields.io/badge/-AutoMapper-red?style=flat&logo=dotnet&logoColor=white" alt="AutoMapper"/></a>
-  <a href="https://serilog.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/11534326?s=200&v=4" width="36" height="36" alt="Serilog"/></a>
-  <a href="https://fluentvalidation.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/20023954?s=200&v=4" width="36" height="36" alt="FluentValidation"/></a>
-  <a href="https://github.com/jstedfast/MailKit" target="_blank"><img src="https://avatars.githubusercontent.com/u/1576077?s=200&v=4" width="36" height="36" alt="MailKit"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a>
-</p>  
+
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-red?style=flat&logo=dotnet&logoColor=white)
+![Serilog](https://img.shields.io/badge/Serilog-1E1E1E?style=flat&logo=serilog&logoColor=white)
+![FluentValidation](https://img.shields.io/badge/FluentValidation-0A66C2?style=flat&logo=checkmarx&logoColor=white)
+![MailKit](https://img.shields.io/badge/MailKit-0078D4?style=flat&logo=maildotru&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 
 🧩 Also familiar with:  
 - Web API • MVC • MediatR • Clean Architecture • CQRS • Identity • JWT Authentication • Repository Pattern • Dependency Injection  
