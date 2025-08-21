@@ -56,7 +56,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>
   <a href="https://angular.io/" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
-</p>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
+    <img src="https://img.shields.io/badge/AJAX-007ACC?style=flat&logo=javascript&logoColor=white" height="20" alt="AJAX"/>
+  </a>
+</p> 
+ 
 
 ---
 
