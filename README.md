@@ -335,7 +335,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 </div>
 
 <!-- Trophies Section -->
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;**Achievements**
+## <img src="https://img.icons8.com/fluency/48/trophy.png" width="35"> &nbsp;**Achievements**
 
 <div align="center">
 
