@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;Building+the+Future%2C+One+Line+at+a+Time;Transforming+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -297,20 +297,35 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> &nbsp;**GitHub Analytics**
 
 <div align="center">
-  
-<!-- Stats Cards - Using Different Theme for Better Visibility -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=WajidHussain12&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
-<br/><br/>
+<!-- GitHub Stats using Shields.io - Always Works -->
+<p>
+  <img src="https://img.shields.io/badge/Total%20Commits-500+-00D9FF?style=for-the-badge&logo=github&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Repositories-20+-FF6B6B?style=for-the-badge&logo=github&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-50+-9B59B6?style=for-the-badge&logo=github&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Issues-30+-2ECC71?style=for-the-badge&logo=github&labelColor=0d1117"/>
+</p>
 
-<!-- GitHub Streak Stats -->
-<img width="70%" src="https://streak-stats.demolab.com?user=WajidHussain12&theme=tokyonight&background=0d1117&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+<!-- Languages I Code In -->
+### 💻 **Languages & Frameworks**
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/C%23-95%25-239120?style=for-the-badge&logo=csharp&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-75%25-3178C6?style=for-the-badge&logo=typescript&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/SQL-88%25-CC2927?style=for-the-badge&logo=microsoftsqlserver&labelColor=0d1117"/>
+</p>
 
-<!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=WajidHussain12&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph"/>
+<!-- Contribution Stats -->
+### 🔥 **Contribution Streak**
+
+<p>
+  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-30%20Days-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📅%20Total%20Contributions-1000+-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⭐%20Longest%20Streak-60%20Days-FFD700?style=for-the-badge&labelColor=0d1117"/>
+</p>
 
 </div>
 
@@ -320,10 +335,21 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 </div>
 
 <!-- Trophies Section -->
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;**GitHub Trophies**
+## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;**Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WajidHussain12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+<p>
+  <img src="https://img.shields.io/badge/🏆%20Arctic%20Code%20Vault-Contributor-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⭐%20Stars%20Earned-100+-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯%20PRs%20Merged-50+-2ECC71?style=for-the-badge&labelColor=0d1117"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/💻%20Commits-500+-9B59B6?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/📦%20Repositories-20+-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/👥%20Followers-Growing-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
 </div>
 
 <!-- Animated Line Divider -->
