@@ -339,15 +339,37 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="150">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" height="80" alt="Pull Shark"/>
+  <br><strong>Pull Shark</strong>
+  <br><sub>PRs Merged</sub>
+</td>
+<td align="center" width="150">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" height="80" alt="Quickdraw"/>
+  <br><strong>Quickdraw</strong>
+  <br><sub>Fast Coder</sub>
+</td>
+<td align="center" width="150">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" height="80" alt="YOLO"/>
+  <br><strong>YOLO</strong>
+  <br><sub>No Review Merge</sub>
+</td>
+<td align="center" width="150">
+  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="80" height="80" alt="Starstruck"/>
+  <br><strong>Starstruck</strong>
+  <br><sub>Stars Earned</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <p>
-  <img src="https://img.shields.io/badge/🏆%20Arctic%20Code%20Vault-Contributor-00D9FF?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/⭐%20Stars%20Earned-100+-FFD700?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/🎯%20PRs%20Merged-50+-2ECC71?style=for-the-badge&labelColor=0d1117"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/💻%20Commits-500+-9B59B6?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/📦%20Repositories-20+-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/👥%20Followers-Growing-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🏆_Total_Achievements-4+-FFD700?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-100+-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/🎯_PRs_Merged-50+-2ECC71?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 </div>
