@@ -8,15 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
 <!-- Profile Views & Social Badges -->
-<br/>
 <p>
   <img src="https://komarev.com/ghpvc/?username=WajidHussain12&style=for-the-badge&color=0099FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
   <a href="https://github.com/WajidHussain12?tab=followers">
     <img src="https://img.shields.io/github/followers/WajidHussain12?style=for-the-badge&color=0099FF&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/>
   </a>
   <a href="https://github.com/WajidHussain12?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0099FF&labelColor=0d1117&logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWajidHussain12" alt="Repos"/>
+    <img src="https://img.shields.io/github/stars/WajidHussain12?style=for-the-badge&color=0099FF&labelColor=0d1117&logo=github&label=Stars" alt="Stars"/>
   </a>
 </p>
 
@@ -151,9 +152,9 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 </td>
 <td align="center" width="96">
   <a href="#backend">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
+    <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="48" height="48" alt="Web API" />
   </a>
-  <br><strong>Swagger</strong>
+  <br><strong>Web API</strong>
 </td>
 </tr>
 </table>
@@ -187,7 +188,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 </td>
 <td align="center" width="96">
   <a href="#database">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL Server" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48" alt="SQL Server" />
   </a>
   <br><strong>SQL Server</strong>
 </td>
@@ -199,7 +200,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 </td>
 <td align="center" width="96">
   <a href="#database">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="Entity Framework" />
+    <img src="https://img.icons8.com/color/48/000000/database-restore.png" width="48" height="48" alt="Entity Framework" />
   </a>
   <br><strong>EF Core</strong>
 </td>
@@ -248,7 +249,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 </td>
 <td align="center" width="96">
   <a href="#tools">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome DevTools" />
+    <img src="https://img.icons8.com/color/48/000000/chrome.png" width="48" height="48" alt="Chrome DevTools" />
   </a>
   <br><strong>DevTools</strong>
 </td>
@@ -297,20 +298,19 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 
 <div align="center">
   
-<a href="https://github.com/WajidHussain12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WajidHussain12&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
-</a>
+<!-- Stats Cards - Using Different Theme for Better Visibility -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=WajidHussain12&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
 
 <!-- GitHub Streak Stats -->
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WajidHussain12&theme=radical&background=0d1117&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=WajidHussain12&theme=tokyonight&background=0d1117&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+
+<br/><br/>
 
 <!-- Activity Graph -->
-<br/>
-<a href="https://github.com/WajidHussain12">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidHussain12&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=0d1117&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph"/>
-</a>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=WajidHussain12&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph"/>
 
 </div>
 
@@ -323,7 +323,7 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 ## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;**GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WajidHussain12&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WajidHussain12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <!-- Animated Line Divider -->
@@ -393,17 +393,15 @@ fun_fact: "I debug code better at 2 AM than 2 PM ☕"
 
 ### 💭 **Dev Philosophy**
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
 
 </div>
 
+<br/>
+
 <!-- Snake Animation -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <!-- Footer -->
