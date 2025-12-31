@@ -1,129 +1,423 @@
-<img src="https://github.com/WajidHussain12/assets/blob/main/Github%20Banner.jpg" width="100%" />
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0099FF&height=220&section=header&text=Syed%20Wajid%20Hussain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20.NET%20Specialist%20|%20Angular%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
+
+<!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?size=35&pause=300&color=0099FF&background=DA02FF00&center=true&width=635&height=70&lines=Welcome+to+my+GitHub+universe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+Welcome+to+my+Digital+Universe+%E2%9C%A8;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Transforming+Ideas+into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
----
-
-## 👋 Hi, I’m Syed Wajid Hussain  
-
-💻 A passionate **Full Stack Developer** specializing in **.NET (ASP.NET Core, Web API, MVC)** and **Angular**.  
-🚀 I enjoy building scalable web applications, solving real-world problems, and writing clean, maintainable code.  
-
----
-
-### ✨ What Drives Me
-- Turning ideas into functional digital solutions  
-- Exploring new technologies and constantly learning & improving  
-- Strong believer in **Clean Architecture, CQRS, and best coding practices**  
-- Problem-solving mindset → Challenges are opportunities to grow  
-
----
-
-### 🔹 Tech Stack
-.NET Core • C# • Angular • SQL Server • Entity Framework Core • HTML • CSS • JavaScript • Bootstrap • jQuery • AJAX  
-
----
-
-### 🌱 Currently
-- Expanding knowledge in advanced **.NET & Angular** concepts  
-- Building projects to strengthen my skills and portfolio  
-- Learning **React.js**  
-- 🤝 Actively seeking **new opportunities**  
-
----
-
-### 📫 Reach Me At
-- ✉️ [hussainwajid615@gmail.com](mailto:hussainwajid615@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/syed-wajid-hussain/)  
-- 🌍 Karachi, Sindh, Pakistan  
-
----
-
-<img src="https://github.com/WajidHussain12/assets/blob/main/Coding.gif" align="right" width="300px" style="border-radius:20px;" />
-
-## 🛠 Skills  
-
-### 🌐 Frontend  
-<p align="left">
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="36" height="36" alt="Angular"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
-  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>
-   <a href="https://angular.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="20" alt="Angular"/>
-</a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank">
-    <img src="https://img.shields.io/badge/AJAX-007ACC?style=flat&logo=javascript&logoColor=white" height="20" alt="AJAX"/>
+<!-- Profile Views & Social Badges -->
+<br/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=WajidHussain12&style=for-the-badge&color=0099FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/WajidHussain12?tab=followers">
+    <img src="https://img.shields.io/github/followers/WajidHussain12?style=for-the-badge&color=0099FF&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/>
   </a>
-</p> 
- 
-
----
-
-### ⚙️ Backend  
-
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![AutoMapper](https://img.shields.io/badge/AutoMapper-red?style=flat&logo=dotnet&logoColor=white)
-![Serilog](https://img.shields.io/badge/Serilog-1E1E1E?style=flat&logo=serilog&logoColor=white)
-![FluentValidation](https://img.shields.io/badge/FluentValidation-0A66C2?style=flat&logo=checkmarx&logoColor=white)
-![MailKit](https://img.shields.io/badge/MailKit-0078D4?style=flat&logo=maildotru&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-
-🧩 Also familiar with:  
-- Web API • MVC • MediatR • Clean Architecture • CQRS • Identity • JWT Authentication • Repository Pattern • Dependency Injection  
-
----
-
-### 🗄 Database  
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/ef/overview" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt="Entity Framework Core"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>
-</p>  
-
-- SQL Server • LINQ • Entity Framework Core • MongoDB  
-
----
-
-### 🛠 Tools & Methods  
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman"/></a>
-  <a href="https://developer.chrome.com/docs/devtools/" target="_blank"><img src="https://img.icons8.com/color/48/chrome.png" width="36" height="36" alt="Chrome Dev Tools"/></a>
-</p>  
-
-
----
-
-### 🌐 Socials
-<p align="left">
-  <a href="https://github.com/WajidHussain12" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/syed-wajid-hussain/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://github.com/WajidHussain12?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=0099FF&labelColor=0d1117&logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FWajidHussain12" alt="Repos"/>
+  </a>
 </p>
 
----
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 🏆 Badges
-![WajidHussain12's Streak](https://github-readme-streak-stats.herokuapp.com?user=WajidHussain12&theme=green-nur)
+</div>
 
----
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp;**About Me**
 
-<img src="https://github.com/WajidHussain12/assets/blob/main/Coding2.gif" width="250px" align="right" style="border-radius:20px;" />
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300"/>
 
-### 📊 Stats
-![WajidHussain12's Stats](https://github-readme-stats.vercel.app/api?username=WajidHussain12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+```yaml
+name: Syed Wajid Hussain
+located_in: Karachi, Sindh, Pakistan
+current_role: Junior Software Engineer @ Leopards Courier
+education: University Student
 
----
+fields_of_interest:
+  - Full Stack Development
+  - Enterprise Solutions
+  - Clean Architecture
+  - API Development
+  
+currently_working_on:
+  - Pickup Management System (PMS)
+  - Vehicle Operations Monitoring System (VOMS)
+  - Financial Management Applications
 
-### 📌 Top Languages
-![WajidHussain12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+currently_learning:
+  - React.js
+  - Advanced .NET Patterns
+  - Cloud Technologies
+
+hobbies:
+  - Problem Solving
+  - Learning New Technologies
+  - Building Side Projects
+
+fun_fact: "I debug code better at 2 AM than 2 PM ☕"
+```
+
+<br clear="both"/>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Tech Stack Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> &nbsp;**Tech Arsenal**
+
+<div align="center">
+
+### 🎨 **Frontend Technologies**
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+  </a>
+  <br><strong>Angular</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  </a>
+  <br><strong>React</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  </a>
+  <br><strong>TypeScript</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  </a>
+  <br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  </a>
+  <br><strong>HTML5</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+  </a>
+  <br><strong>CSS3</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+  </a>
+  <br><strong>Bootstrap</strong>
+</td>
+<td align="center" width="96">
+  <a href="#frontend">
+    <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+  </a>
+  <br><strong>jQuery</strong>
+</td>
+</tr>
+</table>
+
+### ⚙️ **Backend Technologies**
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#backend">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+  </a>
+  <br><strong>.NET Core</strong>
+</td>
+<td align="center" width="96">
+  <a href="#backend">
+    <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+  </a>
+  <br><strong>C#</strong>
+</td>
+<td align="center" width="96">
+  <a href="#backend">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  </a>
+  <br><strong>Node.js</strong>
+</td>
+<td align="center" width="96">
+  <a href="#backend">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
+  </a>
+  <br><strong>Swagger</strong>
+</td>
+</tr>
+</table>
+
+<!-- Backend Expertise Badges -->
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MVC-0078D4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-00C7B7?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/CQRS-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MediatR-9B59B6?style=for-the-badge&logo=mediatek&logoColor=white&labelColor=0d1117"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Identity-2ECC71?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/AutoMapper-E74C3C?style=for-the-badge&logo=autoprefixer&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Serilog-1ABC9C?style=for-the-badge&logo=logstash&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/FluentValidation-3498DB?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0d1117"/>
+</p>
+
+### 🗄️ **Database & ORM**
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#database">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  </a>
+  <br><strong>MySQL</strong>
+</td>
+<td align="center" width="96">
+  <a href="#database">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL Server" />
+  </a>
+  <br><strong>SQL Server</strong>
+</td>
+<td align="center" width="96">
+  <a href="#database">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  </a>
+  <br><strong>MongoDB</strong>
+</td>
+<td align="center" width="96">
+  <a href="#database">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt="Entity Framework" />
+  </a>
+  <br><strong>EF Core</strong>
+</td>
+</tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/LINQ-0078D4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Stored_Procedures-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Database_Optimization-F7931E?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0d1117"/>
+</p>
+
+### 🛠️ **Tools & DevOps**
+
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="#tools">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </a>
+  <br><strong>Git</strong>
+</td>
+<td align="center" width="96">
+  <a href="#tools">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  <br><strong>GitHub</strong>
+</td>
+<td align="center" width="96">
+  <a href="#tools">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  </a>
+  <br><strong>VS Code</strong>
+</td>
+<td align="center" width="96">
+  <a href="#tools">
+    <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+  </a>
+  <br><strong>VS 2022</strong>
+</td>
+<td align="center" width="96">
+  <a href="#tools">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  </a>
+  <br><strong>Postman</strong>
+</td>
+<td align="center" width="96">
+  <a href="#tools">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome DevTools" />
+  </a>
+  <br><strong>DevTools</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- What I Do Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;**What I Do**
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   🏗️  BUILD          Enterprise-grade web applications with .NET & Angular  ║
+║                                                                              ║
+║   ⚡  OPTIMIZE       Database queries & application performance              ║
+║                                                                              ║
+║   🔧  ARCHITECT      Clean, maintainable, and scalable code solutions        ║
+║                                                                              ║
+║   🚀  DEPLOY         Full-stack applications to IIS & production servers     ║
+║                                                                              ║
+║   📊  VISUALIZE      KPI Dashboards with real-time data & Apache ECharts     ║
+║                                                                              ║
+║   🔐  SECURE         Applications with JWT, Identity & Role-based Access     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- GitHub Stats Section -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> &nbsp;**GitHub Analytics**
+
+<div align="center">
+  
+<a href="https://github.com/WajidHussain12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WajidHussain12&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajidHussain12&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=00D9FF&text_color=c9d1d9&langs_count=8"/>
+</a>
+
+<!-- GitHub Streak Stats -->
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WajidHussain12&theme=radical&background=0d1117&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+
+<!-- Activity Graph -->
+<br/>
+<a href="https://github.com/WajidHussain12">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WajidHussain12&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=0d1117&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph"/>
+</a>
+
+</div>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Trophies Section -->
+## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> &nbsp;**GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WajidHussain12&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Currently Working On Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;**Current Focus**
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:--------:|:-------------|:-------------|
+| **PMS** | Pickup Management System for logistics operations | ASP.NET Core, MySQL, jQuery |
+| **VOMS** | Vehicle Operations Monitoring with real-time dashboards | .NET Core, Apache ECharts, SQL |
+| **Financial Apps** | COD Commission & transaction management systems | ASP.NET MVC, Clean Architecture |
+| **Learning** | Expanding React.js & Cloud Technologies expertise | React, Azure |
+
+</div>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Connect Section -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;**Let's Connect**
+
+<div align="center">
+
+<a href="mailto:hussainwajid615@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://www.linkedin.com/in/syed-wajid-hussain/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/WajidHussain12">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║                    💼 Open to New Opportunities! 💼                          ║
+║                                                                              ║
+║         I'm actively seeking exciting roles where I can contribute           ║
+║         my skills in .NET, Angular, and Full Stack Development.              ║
+║                                                                              ║
+║                    📍 Karachi, Sindh, Pakistan                               ║
+║                    ✉️  hussainwajid615@gmail.com                             ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- Animated Line Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- Quote Section -->
+<div align="center">
+
+### 💭 **Dev Philosophy**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,50:1a1b27,100:0d1117&height=120&section=footer"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/by-Syed%20Wajid%20Hussain-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+</p>
+
+**⭐ Star my repos if you find them useful! ⭐**
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+
+</div>
